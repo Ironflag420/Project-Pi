@@ -1,4 +1,5 @@
-
+import time
+import board
 import Adafruit_DHT
 DHT_SENSOR = Adafruit_DHT.DHT22
 DHT_PIN = 4
